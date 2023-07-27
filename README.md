@@ -20,5 +20,4 @@ The findings of this project provides insights into the factor that can influenc
   Europe may want to wait until the exchange rate is favorable before exchanging their currency.
 * The time series analysis used in this project is a powerful tool for understanding and predicting currency exchange rates. However, it is important to note that 
   the future is uncertain, and there is no guarantee that the exchange rate will follow the same trends in the future as it has in the past.
-
 Overall, this project has provided valuable insights into the euro to USD exchange rate. This information can be used by businesses and individuals to make more informed decisions about currency exchange.
